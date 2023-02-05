@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    justify-content: center;
+    margin: 150px 600px 200px;
+}
+table td{
+    border: 1px solid gray;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.turns{
+    color: wheat;
+    font-style:italic;
+}
+.winner{
+    color: white;
+}
