@@ -1,5 +1,5 @@
-import React,{useState} from 'react'
-import "./Tictactoe.css"
+import React,{useState} from 'react';
+import "./Tictactoe.css";
 const Tictactoe = () => {
 
 const [turn,setTurn]=useState('X');

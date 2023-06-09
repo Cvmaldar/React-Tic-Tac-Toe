@@ -8,6 +8,7 @@
 }
 body{
   background-color: black;
+  overflow-y: hidden;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -19,7 +20,7 @@ body{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
   font-size: 50px;
   font-style: italic;
-  margin-top: 150px;
+  margin-top: 120px;
 
 }
 

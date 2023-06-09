@@ -4,7 +4,9 @@
     align-items: center;
     width: 500px;
     justify-content: center;
-    margin: 150px 600px 200px;
+   
+   padding-left: 600px;
+
 }
 table td{
     border: 1px solid gray;
